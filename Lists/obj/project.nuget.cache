@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TA1LFG7OEag=",
+  "dgSpecHash": "PIz48bmwHE0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan\\Desktop\\TheCodeMan\\dotnet_interview_questions\\Lists\\Lists.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Interview\\IW\\dotnet_interview_questions\\Lists\\Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.2\\microsoft.windowsdesktop.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.2\\microsoft.netcore.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.2\\microsoft.aspnetcore.app.ref.10.0.2.nupkg.sha512",
+    "C:\\Users\\Uttamshlok.Sharma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.2\\microsoft.netcore.app.host.win-x64.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
